@@ -1,1 +1,3 @@
-# Automatic-Plant-Watering-System
+This project creates an automated watering system. It usees Java to create a program which detects when a plant's soil is dry and automatically waters it. This is important because technology is rising rapidly and nowadays people might not want to have to water their plants physically themselves. It makes it easier for plant owners.
+
+The system automatically detects when the plant's soil is dry and activates watering. It also senses when the soil is moist or wet, stopping or preventing watering as needed. The OLED display on the Arduino board shows real-time soil moisture levels and the current pump status. Additionally, sensor values are graphed over time to track changes in moisture levels.
